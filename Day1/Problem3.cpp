@@ -44,3 +44,16 @@ int main(){
     }
     return 0;
 }
+
+
+/*
+Output :
+1 no of test cases
+5 input array elements
+1
+3
+3
+5
+2
+YES
+*/
