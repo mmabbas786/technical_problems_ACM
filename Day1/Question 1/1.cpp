@@ -41,3 +41,22 @@ int main()
     }
     return 0;
 }
+
+
+/*
+OUTPUT :
+2 no. of test cases
+
+1
+3
+2
+
+3 ans
+
+19
+7
+18
+
+28 ans
+
+*/
