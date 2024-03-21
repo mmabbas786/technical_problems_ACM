@@ -1,7 +1,7 @@
 // Setting Up Camp (Codeforces)
 
-#include<iostream>
-#include<vector>
+#include<bits/stdc++.h>
+
 
 using namespace std;
 
